@@ -22,10 +22,10 @@ Este repositório apresenta o desenvolvimento do **site institucional completo d
 | Seção | Imagem |
 |-------|--------|
 | Página Inicial | ![](inicial.png) |
-| Sobre a Empresa | ![](sobrenos.png) |
+| Sobre a Empresa | ![](sobre-nós.png) |
 | Blog | ![](blog.png) |
-| Código de Conduta | ![](códigodeconduto.png) |
-| Contato | ![](Faleconosco.png) |
+| Código de Conduta | ![](código-de-conduta.png) |
+| Contato | ![](fale-conosco.png) |
 
 ## 🌐 Acesse o Site ao Vivo
 
