@@ -21,11 +21,11 @@ Este repositório apresenta o desenvolvimento do **site institucional completo d
 
 | Seção | Imagem |
 |-------|--------|
-| Página Inicial | ![](1.png) |
-| Sobre a Empresa | ![](2.png) |
-| Serviços | ![](3.png) |
-| Diferenciais | ![](4.png) |
-| Contato | ![](5.png) |
+| Página Inicial | ![](inicial.png) |
+| Sobre a Empresa | ![](sobrenos.png) |
+| Blog | ![](blog.png) |
+| Código de Conduta | ![](códigodeconduto.png) |
+| Contato | ![](Faleconosco.png) |
 
 ## 🌐 Acesse o Site ao Vivo
 
